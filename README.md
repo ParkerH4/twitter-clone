@@ -25,7 +25,8 @@ Explore the codebase to see how these features were implemented and gain insight
 
 ## Application Screenshots
 
----
+I've created an Imgur album containing screenshots showcasing the functionality of the application. Due to hosting costs, the live site is currently offline, but I can easily turn it back on at any time. Please visit the [Imgur album](https://imgur.com/a/fWrr4cw) to view the screenshots.
+
 
 # Ruby on Rails Sample Application Setup
 
